@@ -1,4 +1,4 @@
-# ⚡ Motor Paramétrico de Planos Eléctricos SEC (TE1) — Chile
+#  Motor Paramétrico de Planos Eléctricos SEC (TE1) — Chile
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![AutoCAD DXF](https://img.shields.io/badge/CAD-ezdxf%20R2018-red?logo=autodesk&logoColor=white)
@@ -9,7 +9,7 @@ Motor de ingeniería en Python para la **generación automatizada de planos elé
 
 ---
 
-## 🛠️ Características Principales
+##  Características Principales
 
 * **Doble Planta Arquitectónica y Eléctrica Automatizada (`ezdxf`):** Genera simultáneamente la **Planta de Enchufes (Cto. 1)** y la **Planta de Iluminación (Cto. 2)** en capas estandarizadas de AutoCAD (`MUROS_CIAN`, `CANALIZACION_CIAN`, `SIMBOLOS_AMARILLO`, `SIMBOLOS_BLANCO`, `TDA_VERDE`, `ALIMENTADOR_ROJO`).
 * **Simbología Normativa Vectorial con Relleno Sólido (`HATCH`):**
@@ -24,7 +24,7 @@ $$VP = \frac{2 \times L \times I}{56 \times S} \qquad \text{y} \qquad S = \frac{
 
 ---
 
-## 📊 Caso de Estudio Precargado (Empalme Rural 120 m)
+##  Caso de Estudio Precargado (Empalme Rural 120 m)
 
 El repositorio incluye precargado un levantamiento real de 7 recintos con alimentador aéreo en cable preensamblado:
 
@@ -39,7 +39,7 @@ El repositorio incluye precargado un levantamiento real de 7 recintos con alimen
 
 ---
 
-## 🚀 Instalación y Ejecución (Modo Dual)
+##  Instalación y Ejecución (Modo Dual)
 
 1. Clonar el repositorio e instalar dependencias:
 ```bash
